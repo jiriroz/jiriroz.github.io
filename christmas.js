@@ -95,7 +95,7 @@ $(function() {
   $(present._renderer.elem)
     .click(function(e) {
       if (numCirclesInTree == numCircles) {
-        window.location = "https://www.google.com";
+        window.location = "https://www.disneyplus.com/home";
       }
     });
 
